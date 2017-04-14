@@ -1,0 +1,17 @@
+[INFO]2016-10-19 08:58:19 login into server success
+[INFO]2016-10-19 08:58:21 start run gcta compute steps
+[INFO]2016-10-19 08:58:21 run step 1 Mapping
+[INFO]2016-10-19 09:02:52 step 1 elapse time 4.53 mins
+[INFO]2016-10-19 09:02:52 run step 2 BAM Gathering
+[INFO]2016-10-19 09:04:05 step 2 elapse time 73 sec
+[INFO]2016-10-19 09:04:05 run step 3 BAM Scattering
+[INFO]2016-10-19 09:06:08 step 3 elapse time 123 sec
+[INFO]2016-10-19 09:06:08 run step 4 BAM merging and sorting
+[INFO]2016-10-19 09:07:31 step 4 elapse time 1.37 mins
+[INFO]2016-10-19 09:07:31 run step 5 Variants Calling
+[INFO]2016-10-19 09:07:31 regions is not changed
+[INFO]2016-10-19 09:16:44 step 5 elapse time 9.22 mins
+[INFO]2016-10-19 09:16:44 run step 6 VCF merging
+[INFO]2016-10-19 09:17:07 step 6 elapse time 22.72 sec
+[INFO]2016-10-19 09:17:07 end run gcta
+[INFO]2016-10-19 09:17:07 gcta total elapse time 18.77 mins
